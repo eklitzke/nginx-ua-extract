@@ -1,2 +1,3 @@
-This is a simple script I use to identify popular user agents in my nginx logs.
-I use so I can set my browser UA to something that helps resist fingerprinting.
+This is a simple script I use to identify the most popular user agents in my
+nginx access logs. I use this data to set my browser UA to a less unique value
+to resist online fingerprinting.
